@@ -1,1 +1,1 @@
-daaaaadada
+<?php phpinfo(); ?>
